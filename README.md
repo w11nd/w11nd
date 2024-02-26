@@ -1,11 +1,6 @@
 ### Hi there 👋
 
 
-<div align="center">
-<span>  </span>
-<img height="170px" src="https://github-readme-stats.vercel.app/api?username=w11nd" /><span>  </span><img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=w11nd&layout=compact&langs_count=8" />
-<span>  </span>
-</div>
 <!--
 **w11nd/w11nd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
