@@ -1,7 +1,7 @@
 ### Hi there 👋
 🌱 I’m currently learning database
 
-📫 How to reach me: w11nd@qq.com
+📫 How to reach me: xuequ_huang@nuaa.edu.cn
 <!--
 **w11nd/w11nd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
